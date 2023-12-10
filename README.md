@@ -43,4 +43,3 @@ You are not allowed to use tags img, embed and iframe
 You are not allowed to use Javascript
 Current screenshots have been done on Chrome 56 or more.
 No cross browsers
-You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
