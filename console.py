@@ -193,7 +193,7 @@ class HBNBCommand(cmd.Cmd):
             elif not attribute:
                 print("** attribute name missing **")
             elif not value:
-                print("** value missing **")
+                print("** values missing **")
             else:
                 cast = None
                 if not re.search('^".*"$', value):
